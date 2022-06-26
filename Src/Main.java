@@ -208,7 +208,7 @@ public class Main {
                 System.out.println("Нажмите q и enter чтобы узнать ответ");
                 String answer24 = sc.next();
                 if (answer24.equals("q")){
-                    System.out.println("Правила которые работаят от и до");
+                    System.out.println("Правила которые работают от и до");
                 }
                 break;
             case 25:
@@ -216,7 +216,7 @@ public class Main {
                 System.out.println("Нажмите q и enter чтобы узнать ответ");
                 String answer25 = sc.next();
                 if (answer25.equals("q")){
-                    System.out.println("while сначала проверяет условие, do while сначала делает, потом проверяет");
+                    System.out.println("while сначала проверяет условие. Do while сначала делает, потом проверяет");
                 }
                 break;
             case 26:
@@ -310,7 +310,7 @@ public class Main {
                 System.out.println("Нажмите q и enter чтобы узнать ответ");
                 String answer36 = sc.next();
                 if (answer36.equals("q")){
-                    System.out.println("Возвращающий и не возвращающий");
+                    System.out.println("Возвращающий / не возвращающий");
                 }
                 break;
             case 37:
